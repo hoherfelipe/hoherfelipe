@@ -3,6 +3,15 @@
 🎯 Em transição para a área de DevOps, com foco em automação, infraestrutura como código e computação em nuvem.  
 💼 Atualmente atuando como **Analista de Monitoramento (Zabbix | Grafana)** — criando scripts, templates e dashboards para ambientes críticos.
 
+
+## 📚 Atualmente Estudando
+
+- 🐍 Python para automação de tarefas
+- 🐳 Docker e Kubernetes para orquestração de contêineres
+- ☁️ Serviços de nuvem: AWS
+- 🔧 Ferramentas de CI/CD e infraestrutura como código
+
+
 ## 🚀 Tecnologias e Ferramentas
 
 ![Zabbix](https://img.shields.io/badge/Zabbix-e30b17?style=flat&logo=zabbix&logoColor=white)
@@ -16,13 +25,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-
-## 📚 Atualmente Estudando
-
-- 🐍 Python para automação de tarefas
-- 🐳 Docker e Kubernetes para orquestração de contêineres
-- ☁️ Serviços de nuvem: AWS
-- 🔧 Ferramentas de CI/CD e infraestrutura como código
 
 ## 📈 Estatísticas do GitHub
 
