@@ -21,7 +21,7 @@
 
 - 🐍 Python para automação de tarefas
 - 🐳 Docker e Kubernetes para orquestração de contêineres
-- ☁️ Serviços de nuvem: AWS, Azure e GCP
+- ☁️ Serviços de nuvem: AWS
 - 🔧 Ferramentas de CI/CD e infraestrutura como código
 
 ## 📈 Estatísticas do GitHub
