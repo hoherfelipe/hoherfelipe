@@ -68,5 +68,4 @@ Atualmente estou expandindo meus conhecimentos para migrar para uma função **D
   <img src="https://raw.githubusercontent.com/hoherfelipe/hoherfelipe/output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center"><i>Obrigado por visitar meu perfil! 😄</i></p>
 
