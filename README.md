@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&random=true&width=600&lines=Felipe+Hoher;Analista+de+Monitoramento+%2F+Observabilidade;Futuro+DevOps+Engineer;Automação+%7C+Linux+%7C+Docker+%7C+Cloud" alt="Banner digitando" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Felipe+Hoher;Analista+de+Monitoramento+e+Observabilidade;Futuro+DevOps+Engineer;Automacao+Linux+Docker+Cloud" alt="Banner digitando" />
 </p>
 
 ---
