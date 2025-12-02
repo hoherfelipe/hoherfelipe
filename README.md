@@ -1,37 +1,72 @@
-# 👋 Olá, sou o Felipe Hoher
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&random=true&width=600&lines=Felipe+Hoher;Analista+de+Monitoramento+%2F+Observabilidade;Futuro+DevOps+Engineer;Automação+%7C+Linux+%7C+Docker+%7C+Cloud" alt="Banner digitando" />
+</p>
 
-🎯 Em transição para a área de DevOps, com foco em automação, infraestrutura como código e computação em nuvem.  
-💼 Atualmente atuando como **Analista de Monitoramento (Zabbix | Grafana)** — criando scripts, templates e dashboards para ambientes críticos.
+---
+
+# Olá! Eu sou o Felipe Hoher
+
+Atuo como **Analista de Monitoramento / Observabilidade**, desenvolvendo soluções com **Zabbix**, **Grafana**, automações e scripts para ambientes críticos.  
+Atualmente estou expandindo meus conhecimentos para migrar para uma função **DevOps / SRE**, com foco em **infraestrutura, automação, containers e cloud**.
+
+---
+
+## 🚀 Skills & Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,aws,html,css,javascript" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Zabbix-E30B17?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+---
+
+## 📚 O que estou estudando agora
+
+- 🐧 Administração de **Linux para servidores**
+- 🐍 Python para automação
+- 🐳 Docker (fundamentos para estudos futuros de Kubernetes)
+- 📜 Shell Script para tarefas do dia a dia
+- ☁️ Conceitos essenciais de Cloud (AWS)
+- 🔧 Cultura DevOps e práticas SRE
+
+---
+
+## 📊 Minhas Estatísticas
 
 
-## 📚 Atualmente Estudando
+<p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=hoherfelipe&show_icons=true&theme=radical" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=hoherfelipe&layout=compact&theme=radical" 
+    height="165"
+  />
+</p>
 
-- 🐍 Python para automação de tarefas
-- 🐳 Docker e Kubernetes para orquestração de contêineres
-- ☁️ Serviços de nuvem: AWS
-- 🔧 Ferramentas de CI/CD e infraestrutura como código
+---
 
+## 📫 Onde me encontrar
 
-## 🚀 Tecnologias e Ferramentas
+<p align="left">
+  <a href="https://www.linkedin.com/in/hoherfelipe">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hoherfelipe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-![Zabbix](https://img.shields.io/badge/Zabbix-e30b17?style=flat&logo=zabbix&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hoherfelipe/hoherfelipe/output/github-contribution-grid-snake.svg" />
+</p>
 
-## 📈 Estatísticas do GitHub
+<p align="center"><i>Obrigado por visitar meu perfil! 😄</i></p>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hoherfelipe&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hoherfelipe&layout=compact&theme=radical)
-
-## 📫 Como me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/hoherfelipe)
-- [Email](mailto:hoherfelipe@gmail.com)
